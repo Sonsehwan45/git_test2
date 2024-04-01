@@ -5,5 +5,4 @@ public class Main {
     	Hello hello = new Hello();
         System.out.pritnln(hello.say());
     }
-
 }
